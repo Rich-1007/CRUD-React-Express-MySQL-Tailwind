@@ -1,4 +1,16 @@
 
+##User List Table
+![1](https://github.com/user-attachments/assets/714257f4-cbc7-46b3-9046-5e7b697c614c)
+
+##Add New User Form
+![2](https://github.com/user-attachments/assets/32d3582c-2752-4a1d-a75b-54dc7bbbe786)
+
+##Details View of a User
+![3](https://github.com/user-attachments/assets/b7e21765-36b3-4898-a067-db4b5a18a4e7)
+
+##Update User Details Form
+![4](https://github.com/user-attachments/assets/afccbd30-02c7-4971-bd9d-ffb26d868986)
+
 ```
 # React MySQL Express Project
 
@@ -130,17 +142,5 @@ Project Link: [https://github.com/Rich-1007/CRUD-React-Express-MySQL-Tailwind](h
 - Express Documentation
 - MySQL Documentation
 
-
-##User List Table
-![1](https://github.com/user-attachments/assets/714257f4-cbc7-46b3-9046-5e7b697c614c)
-
-##Add New User Form
-![2](https://github.com/user-attachments/assets/32d3582c-2752-4a1d-a75b-54dc7bbbe786)
-
-##Details View of a User
-![3](https://github.com/user-attachments/assets/b7e21765-36b3-4898-a067-db4b5a18a4e7)
-
-##Update User Details Form
-![4](https://github.com/user-attachments/assets/afccbd30-02c7-4971-bd9d-ffb26d868986)
 
 ```
