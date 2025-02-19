@@ -1,4 +1,3 @@
-Here is the complete code in one block that you can copy and paste directly:
 
 ```
 # React MySQL Express Project
