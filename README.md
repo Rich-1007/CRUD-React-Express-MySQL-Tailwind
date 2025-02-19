@@ -125,10 +125,11 @@ Project Link: [https://github.com/Rich-1007/CRUD-React-Express-MySQL-Tailwind](h
 
 ## Acknowledgements
 
+
 - React Documentation
 - Express Documentation
 - MySQL Documentation
-```
+
 
 ##User List Table
 ![1](https://github.com/user-attachments/assets/714257f4-cbc7-46b3-9046-5e7b697c614c)
@@ -141,3 +142,5 @@ Project Link: [https://github.com/Rich-1007/CRUD-React-Express-MySQL-Tailwind](h
 
 ##Update User Details Form
 ![4](https://github.com/user-attachments/assets/afccbd30-02c7-4971-bd9d-ffb26d868986)
+
+```
